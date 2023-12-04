@@ -20,3 +20,4 @@ He is an android developer who has been working in various android projects for 
 
 <a href="http://www.github.com/AtesEyup"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AtesEyup&stroke=000000&background=ffffff&ring=000000&fire=000000&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 <a href="https://github.com/AtesEyup" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtesEyup&langs_count=10&title_color=000000&text_color=000000&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/>
